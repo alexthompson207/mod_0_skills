@@ -1,0 +1,16 @@
+Instance/Object: McDonalds
+
+Attributes:
+totalStaff = 10
+name (string) = "Alex"
+rateOfPay = 10.99
+hasHealthCare = false
+hoursWorked = 20.5
+
+Methods:
+addStaff: (1 + 10) = 11
+giveRaise: (2.00 + 10.99)= 12.99
+changeName = "Al"
+fireStaff: (10 -1) = 9
+addToInsurance: true
+addHours: (4.5 + 20.5) = 25.0
