@@ -1,16 +1,14 @@
-Instance/Object: Burger King
+Instance/Object: Hilton Hotel Bar
+
 
 Attributes:
-totalStaff = 5
-name (string) = "Joe"
-rateOfPay = 21.99
-hasHealthCare = false
-hoursWorked = 1.5
+totalBeers = 10
+name (string) = "Watering Whole"
+hasWine (boolean) = false
+hoursOpen (float) = 10.5
 
 Methods:
-addStaff: (1 + 5) = 6
-giveRaise: (10.00 + 21.99)= 31.99
-changeName = "Guy"
-fireStaff: (5 -1) = 4
-addToInsurance: true
-addHours: (40 + 1.5) = 41.5
+addBeer: (1 + 10) = 11
+changeName: "Watering Hole"
+addWine: true
+AddHours: (2 + 10.5)= 12.5
