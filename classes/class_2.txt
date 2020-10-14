@@ -10,4 +10,4 @@ Methods:
 addBeer (add 1 to totalBeers)
 changeName (re-assign name)
 addWine (change hasWine)
-AddHours (increase hoursOpen)
+addHours (increase hoursOpen)
