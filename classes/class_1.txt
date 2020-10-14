@@ -1,0 +1,16 @@
+Class: Restaurant Staff
+
+Attributes:
+totalStaff (integer)
+name (string)
+rateOfPay (float)
+hasHealthCare (boolean)
+hoursWorked (float)
+
+Methods:
+addStaff (add 1 to totalStaff)
+giveRaise (increase rateOfPay)
+changeName (re-assign name)
+fireStaff (subtract 1 to totalStaff)
+addToInsurance (change hasHealthCare)
+addHours (increase hoursWorked)
