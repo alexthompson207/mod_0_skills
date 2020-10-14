@@ -11,4 +11,4 @@ Methods:
 addBeer: (1 + 10) = 11
 changeName: "Watering Hole"
 addWine: true
-AddHours: (2 + 10.5)= 12.5
+addHours: (2 + 10.5)= 12.5
