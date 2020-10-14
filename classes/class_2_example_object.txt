@@ -1,0 +1,16 @@
+Instance/Object: Burger King
+
+Attributes:
+totalStaff = 5
+name (string) = "Joe"
+rateOfPay = 21.99
+hasHealthCare = false
+hoursWorked = 1.5
+
+Methods:
+addStaff: (1 + 5) = 6
+giveRaise: (10.00 + 21.99)= 31.99
+changeName = "Guy"
+fireStaff: (5 -1) = 4
+addToInsurance: true
+addHours: (40 + 1.5) = 41.5
