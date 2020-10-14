@@ -1,16 +1,13 @@
-Instance/Object: Wendy's
+Class: Restaurant- Bar
 
 Attributes:
-totalStaff = 20
-name (string) = "Bobby"
-rateOfPay = 5.00
-hasHealthCare = false
-hoursWorked = 5.5
+totalBeers (integer)
+name (string)
+hasWine (boolean)
+hoursOpen (float)
 
 Methods:
-addStaff: (1 + 20) = 21
-giveRaise: (2.00 + 5.00)= 7.00
-changeName = "Bobby"
-fireStaff: (20 -1) = 19
-addToInsurance: true
-addHours: (4.5 + 5.5) = 10.0
+addBeer (add 1 to totalBeers)
+changeName (re-assign name)
+addWine (change hasWine)
+AddHours (increase hoursOpen)
