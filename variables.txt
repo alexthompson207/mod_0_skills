@@ -1,0 +1,14 @@
+var food = "Eggs";
+var isDelicious = true;
+food = "Burgers";
+
+var num2 = 20;
+var num7 = 22;
+
+var quotient = num7 / num2;
+
+var songs = ["Hello", "Kiss me", "Thunder"];
+
+songs.shift();
+
+var length = food.length;
